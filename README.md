@@ -1,14 +1,11 @@
-# WebStack-Laravel
+# - https://1020xx.com -
 
 个开源的网址导航网站项目，具备完整的前后台，您可以拿来制作自己的网址
 
-## 部署
+## - 1020视频最新网址发布页 - ##
 
-克隆代码：
-
-```shell
-git clone https://github.com/hui-ho/WebStack-Laravel.git
-```
+# 1020视频最新地址：https://1020sp.com
+# 1020视频最新地址：https://2040sp.com
 
 安装完成：http://127.0.0.1:8000
 
